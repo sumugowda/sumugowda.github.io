@@ -1,2 +1,2 @@
 # sumugowda.github.io
-This is ortfolio website created while learning front end development
+This is portfolio website created while learning front end development
