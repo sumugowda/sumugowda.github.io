@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93de1eac.css",
+    "main.js": "/static/js/main.3d858550.js",
+    "static/js/453.aa89d4ad.chunk.js": "/static/js/453.aa89d4ad.chunk.js",
+    "static/media/project-1.jpg": "/static/media/project-1.71153e1188caf18cddbc.jpg",
+    "static/media/project-3.jpg": "/static/media/project-3.99d9a47671b5f6d995df.jpg",
+    "static/media/about.jpg": "/static/media/about.ad33a744d34f811ba455.jpg",
+    "static/media/project-4.jpg": "/static/media/project-4.f80785f0e564af19ba65.jpg",
+    "static/media/sumanthProfile.jpg": "/static/media/sumanthProfile.d1ff635a064f70e25516.jpg",
+    "static/media/project-5.jpg": "/static/media/project-5.7d8f70825b9dad957ed0.jpg",
+    "static/media/project-6.jpg": "/static/media/project-6.c03c808a2828e9773a0d.jpg",
+    "static/media/sumanthLogo.png": "/static/media/sumanthLogo.404ef4a79bf656bf03aa.png",
+    "static/media/project-2.jpg": "/static/media/project-2.912c1e419a075895c09b.jpg",
+    "static/media/githubrepo.png": "/static/media/githubrepo.12fd668f34b8316a0815.png",
+    "index.html": "/index.html",
+    "main.93de1eac.css.map": "/static/css/main.93de1eac.css.map",
+    "main.3d858550.js.map": "/static/js/main.3d858550.js.map",
+    "453.aa89d4ad.chunk.js.map": "/static/js/453.aa89d4ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93de1eac.css",
+    "static/js/main.3d858550.js"
+  ]
+}
